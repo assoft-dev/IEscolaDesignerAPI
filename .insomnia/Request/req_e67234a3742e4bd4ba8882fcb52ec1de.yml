@@ -1,0 +1,25 @@
+_id: req_e67234a3742e4bd4ba8882fcb52ec1de
+type: Request
+parentId: fld_72b95e18344d47c09c156a488a637570
+modified: 1662373215408
+created: 1662370400886
+url: http://localhost:8080/api/estados
+name: DELETE
+description: ""
+method: DELETE
+body: {}
+parameters: []
+headers:
+  - id: pair_3117c157190f4744a2dadcbb627d6434
+    name: x-access-token
+    value: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJVc3Vhcmlvc0lEIjoxLCJFbWFpbCI6ImFzc29mdEBvdXRsb29rLnB0IiwiTG9naW4iOiJhZG1pbiIsImlhdCI6MTY2MjM2OTU2NywiZXhwIjoxNjYyNDU1OTY3fQ.jU7llnjI2wMWlOjknt3O8i95JXj-UGydCC2DZi7xJvo
+    description: ""
+authentication: {}
+metaSortKey: -1662288001974.25
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

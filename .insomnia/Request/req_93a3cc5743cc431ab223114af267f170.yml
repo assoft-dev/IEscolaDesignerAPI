@@ -1,0 +1,34 @@
+_id: req_93a3cc5743cc431ab223114af267f170
+type: Request
+parentId: fld_72b95e18344d47c09c156a488a637570
+modified: 1662377172853
+created: 1662370400884
+url: http://localhost:8080/api/estados
+name: POST
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"Descricao":"Detalhes",
+    	"NIF":"000"	
+    }
+parameters: []
+headers:
+  - id: pair_304a0eb30184407bb65938507e981044
+    name: x-access-token
+    value: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJVc3Vhcmlvc0lEIjoxLCJFbWFpbCI6ImFzc29mdEBvdXRsb29rLnB0IiwiTG9naW4iOiJhZG1pbiIsImlhdCI6MTY2MjM2OTU2NywiZXhwIjoxNjYyNDU1OTY3fQ.jU7llnjI2wMWlOjknt3O8i95JXj-UGydCC2DZi7xJvo
+    description: ""
+  - name: Content-Type
+    value: application/json
+    id: pair_b663a2baf5e748abbe910c661d5817c3
+authentication: {}
+metaSortKey: -1662262709345.5
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

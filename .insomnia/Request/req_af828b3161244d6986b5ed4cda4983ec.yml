@@ -1,0 +1,25 @@
+_id: req_af828b3161244d6986b5ed4cda4983ec
+type: Request
+parentId: fld_fca6dcd8daab48519bbbf59583b8876b
+modified: 1669190750432
+created: 1662565325022
+url: http://localhost:8080/api/grupos/2
+name: DELETE
+description: ""
+method: DELETE
+body: {}
+parameters: []
+headers:
+  - id: pair_db939c3e8789491db8a17b5b93f4bb7d
+    name: x-access-token
+    value: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJVc3Vhcmlvc0lEIjo1LCJFbWFpbCI6ImFzc29mdEBvdXRsb29rLnB0IiwiRnVsbE5hbWUiOiJhZG1pbiIsIk5JRiI6IjAwMDAiLCJpYXQiOjE2NjkxOTA1NDYsImV4cCI6MTY2OTYyMjU0Nn0.8JxjDZ0GCmRDLeKHQCr-b06lC6Ujv2HoPz1al2kpKxM
+    description: ""
+authentication: {}
+metaSortKey: -1662533796468.75
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

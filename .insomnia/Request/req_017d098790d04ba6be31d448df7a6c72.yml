@@ -1,0 +1,30 @@
+_id: req_017d098790d04ba6be31d448df7a6c72
+type: Request
+parentId: fld_a84e6829279447c79891f4c72b355d3f
+modified: 1666625541730
+created: 1662377296850
+url: http://localhost:8080/api/categorias/1
+name: GET
+description: ""
+method: GET
+body:
+  mimeType: application/json
+  text: ""
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_b0480ebdcb8f482b8531c5f43833b4e4
+  - id: pair_2eec7b971dae414da9bc4dd0a5309c36
+    name: x-access-token
+    value: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJVc3Vhcmlvc0lEIjo1LCJFbWFpbCI6ImFzc29mdEBvdXRsb29rLnB0IiwiRnVsbE5hbWUiOiJhZG1pbiIsIk5JRiI6IjAwMDAiLCJpYXQiOjE2NjY2MjM1ODYsImV4cCI6MTY2NzA1NTU4Nn0._1cgbe_aKW7qzy3HSR1Bnzey2Z6Dd44K2s361ciX8N0
+    description: ""
+authentication: {}
+metaSortKey: -1662313294703
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

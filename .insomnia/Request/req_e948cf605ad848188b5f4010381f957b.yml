@@ -1,0 +1,39 @@
+_id: req_e948cf605ad848188b5f4010381f957b
+type: Request
+parentId: fld_fca6dcd8daab48519bbbf59583b8876b
+modified: 1669190642346
+created: 1662565313233
+url: http://localhost:8080/api/grupos
+name: POST
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"Descricao":"ADMINS",
+    	"Comentario":"",
+    	"NIF":"5000"
+    }
+parameters: []
+headers:
+  - id: pair_c1782597f51e45c49b3e3e2612bb7b35
+    name: x-access-token
+    value: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJVc3Vhcmlvc0lEIjo1LCJFbWFpbCI6ImFzc29mdEBvdXRsb29rLnB0IiwiRnVsbE5hbWUiOiJhZG1pbiIsIk5JRiI6IjAwMDAiLCJpYXQiOjE2NjkxOTA1NDYsImV4cCI6MTY2OTYyMjU0Nn0.8JxjDZ0GCmRDLeKHQCr-b06lC6Ujv2HoPz1al2kpKxM
+    description: ""
+  - name: Content-Type
+    value: application/json
+    id: pair_5017c75706fd482faa383c4a424e2ae4
+  - id: pair_1dddbe43d11741c698ae1c3231999371
+    name: ""
+    value: ""
+    description: ""
+authentication: {}
+metaSortKey: -1662439295712
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

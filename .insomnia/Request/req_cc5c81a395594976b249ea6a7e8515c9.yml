@@ -1,0 +1,34 @@
+_id: req_cc5c81a395594976b249ea6a7e8515c9
+type: Request
+parentId: fld_df67f4249e544355959a9e09ae627e36
+modified: 1663232195369
+created: 1662313318623
+url: http://localhost:8080/api/areaFormacao
+name: POST
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"Descricao":"Detalhes",
+    	"NIF":"000"	
+    }
+parameters: []
+headers:
+  - id: pair_304a0eb30184407bb65938507e981044
+    name: x-access-token
+    value: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJVc3Vhcmlvc0lEIjoxLCJFbWFpbCI6ImFzc29mdEBvdXRsb29rLnB0IiwiTG9naW4iOiJhZG1pbiIsImlhdCI6MTY2MzIzMTg3MSwiZXhwIjoxNjYzNjYzODcxfQ.EKvx0u-rZdZCg8q6uUHASg_-6DJeAnBGdhk04W-pAls
+    description: ""
+  - name: Content-Type
+    value: application/json
+    id: pair_b663a2baf5e748abbe910c661d5817c3
+authentication: {}
+metaSortKey: -1662262709345.5
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

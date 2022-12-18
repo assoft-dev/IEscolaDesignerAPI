@@ -1,0 +1,25 @@
+_id: req_1cb2ebaee93a443fa4c9933c8600fa98
+type: Request
+parentId: fld_a84e6829279447c79891f4c72b355d3f
+modified: 1666623613632
+created: 1662377296857
+url: http://localhost:8080/api/categorias
+name: DELETE
+description: ""
+method: DELETE
+body: {}
+parameters: []
+headers:
+  - id: pair_3117c157190f4744a2dadcbb627d6434
+    name: x-access-token
+    value: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJVc3Vhcmlvc0lEIjo1LCJFbWFpbCI6ImFzc29mdEBvdXRsb29rLnB0IiwiRnVsbE5hbWUiOiJhZG1pbiIsIk5JRiI6IjAwMDAiLCJpYXQiOjE2NjY2MjM1ODYsImV4cCI6MTY2NzA1NTU4Nn0._1cgbe_aKW7qzy3HSR1Bnzey2Z6Dd44K2s361ciX8N0
+    description: ""
+authentication: {}
+metaSortKey: -1662288001974.25
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

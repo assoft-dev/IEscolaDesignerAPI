@@ -1,0 +1,34 @@
+_id: req_540ad7a15fed487ba4a0a19a32fad786
+type: Request
+parentId: fld_31648bd84cbd46988368933e9053a134
+modified: 1671178101070
+created: 1671087663509
+url: http://localhost:8080/api/estudantes/1
+name: PUT
+description: ""
+method: PUT
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"Descricao": "dddddd",
+    	"NIF": "0000"
+    }
+parameters: []
+headers:
+  - id: pair_0cb8ee37e15c42d4944a410f6f5e6cf5
+    name: x-access-token
+    value: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJVc3Vhcmlvc0lEIjoxLCJFbWFpbCI6ImFzc29mdEBvdXRsb29rLnB0IiwiRnVsbE5hbWUiOiJhZG1pbiIsIk5JRiI6IjAwMDAiLCJpYXQiOjE2NzEwODc3MTAsImV4cCI6MTY3MTUxOTcxMH0.9nbK_yv_ZTCrw5Vi7ZLZkAh60FHOBd_PdItcOEPPmDk
+    description: ""
+  - name: Content-Type
+    value: application/json
+    id: pair_500f6cc67d8e4d1ba9f5829a533413db
+authentication: {}
+metaSortKey: -1664919923205
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

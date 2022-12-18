@@ -1,0 +1,25 @@
+_id: req_b138df4486ae446e85baec8fc76d262f
+type: Request
+parentId: fld_70c8f12be85a4596a78d67cba720926f
+modified: 1670970555647
+created: 1670970516713
+url: http://localhost:8080/api/municipios/1
+name: Delete
+description: ""
+method: DELETE
+body: {}
+parameters: []
+headers:
+  - id: pair_fac4b4859de0493cb614f48694e493eb
+    name: x-access-token
+    value: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJVc3Vhcmlvc0lEIjoyLCJFbWFpbCI6ImFzc29mdEBvdXRsb29rLnB0IiwiRnVsbE5hbWUiOiJhZG1pbiIsIk5JRiI6IjAwMDAiLCJpYXQiOjE2NzA5NzA0OTYsImV4cCI6MTY3MTQwMjQ5Nn0.nTNvVXa94M1dGMJnRtb1-0j6n5vS8mPr9FGEstNiLP8
+    description: ""
+authentication: {}
+metaSortKey: -1664919923180
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

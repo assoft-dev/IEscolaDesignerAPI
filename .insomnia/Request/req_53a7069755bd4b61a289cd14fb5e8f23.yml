@@ -1,0 +1,30 @@
+_id: req_53a7069755bd4b61a289cd14fb5e8f23
+type: Request
+parentId: fld_df67f4249e544355959a9e09ae627e36
+modified: 1663231940452
+created: 1662313294603
+url: http://localhost:8080/api/areaFormacao/1
+name: GET
+description: ""
+method: GET
+body:
+  mimeType: application/json
+  text: ""
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_b0480ebdcb8f482b8531c5f43833b4e4
+  - id: pair_2eec7b971dae414da9bc4dd0a5309c36
+    name: x-access-token
+    value: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJVc3Vhcmlvc0lEIjoxLCJFbWFpbCI6ImFzc29mdEBvdXRsb29rLnB0IiwiTG9naW4iOiJhZG1pbiIsImlhdCI6MTY2MzIzMTg3MSwiZXhwIjoxNjYzNjYzODcxfQ.EKvx0u-rZdZCg8q6uUHASg_-6DJeAnBGdhk04W-pAls
+    description: ""
+authentication: {}
+metaSortKey: -1662313294703
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

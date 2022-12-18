@@ -1,0 +1,41 @@
+_id: req_87f1ea259f4f4af3bd8e6e9111f1ddd5
+type: Request
+parentId: fld_ad35c3f395d8458e944a2a613c12681c
+modified: 1671086704880
+created: 1660817491026
+url: http://localhost:8080/api/usuarios/authsecret
+name: POSTUsuarios
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"FullName": "Afonso ffde",
+    	"LastName": "Admins",
+    	"Login": "Fulanos",
+    	"Password": "adminadmins",
+    	"Email": "albeytGmails@hotmail.com",
+    	"Data" : "12-12-2022",
+    	"GrupoID": "1",
+    	"NIF": "00252154"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_ee78a99a5a024dac9fca1873d6fc46ca
+  - id: pair_cfe6c781b0734dc3b54ac1e4d8bef4ee
+    name: x-access-token
+    value: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJVc3Vhcmlvc0lEIjo1LCJFbWFpbCI6ImFzc29mdEBvdXRsb29rLnB0IiwiRnVsbE5hbWUiOiJhZG1pbiIsIk5JRiI6IjAwMDAiLCJpYXQiOjE2NjkxOTA1NDYsImV4cCI6MTY2OTYyMjU0Nn0.8JxjDZ0GCmRDLeKHQCr-b06lC6Ujv2HoPz1al2kpKxM
+    description: ""
+    disabled: false
+authentication: {}
+metaSortKey: -1660835965511.5
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

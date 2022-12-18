@@ -1,0 +1,25 @@
+_id: req_9a547500d21348c087e2cf97cd33fb4c
+type: Request
+parentId: fld_d137e171363b4d3ca4cfb2789ef3d3ef
+modified: 1667251132701
+created: 1667250654400
+url: http://localhost:8080/api/cursos/2
+name: Delete
+description: ""
+method: DELETE
+body: {}
+parameters: []
+headers:
+  - id: pair_fac4b4859de0493cb614f48694e493eb
+    name: x-access-token
+    value: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJVc3Vhcmlvc0lEIjo1LCJFbWFpbCI6ImFzc29mdEBvdXRsb29rLnB0IiwiRnVsbE5hbWUiOiJhZG1pbiIsIk5JRiI6IjAwMDAiLCJpYXQiOjE2NjcyNDc3OTYsImV4cCI6MTY2NzY3OTc5Nn0.cyIcCeKleAkaBc-cTqRhClPUuafzIGUXIFRSkDlXF4s
+    description: ""
+authentication: {}
+metaSortKey: -1664919923180
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

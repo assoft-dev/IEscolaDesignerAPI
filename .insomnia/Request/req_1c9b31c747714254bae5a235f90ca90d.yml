@@ -1,0 +1,33 @@
+_id: req_1c9b31c747714254bae5a235f90ca90d
+type: Request
+parentId: fld_142687aa76064e788ebd98bb90a5e8a0
+modified: 1665903033143
+created: 1665336081773
+url: http://localhost:8080/api/trimestres
+name: POST
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    		"Descricao": "admin",
+    		"NIF": "0000"
+    }
+parameters: []
+headers:
+  - id: pair_0b9ae6279cdf4099b44b953f8de9cc5a
+    name: x-access-token
+    value: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJVc3Vhcmlvc0lEIjoxLCJFbWFpbCI6ImFzc29mdEBvdXRsb29rLnB0IiwiRnVsbE5hbWUiOiJhZG1pbiIsIk5JRiI6IjAwMDEwMSIsImlhdCI6MTY2NDkyMDE0MiwiZXhwIjoxNjY1MzUyMTQyfQ.R-OEnOLnqSxFBxtKozReXFJIKlVNMpOxwa1xhhNEY14
+    description: ""
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1664919923230
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

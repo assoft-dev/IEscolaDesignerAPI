@@ -1,0 +1,25 @@
+_id: req_689ef66246da4625a056d31f55b47b55
+type: Request
+parentId: fld_2db9ab68a40d47f1bd8ae1132f6a4c89
+modified: 1671180212049
+created: 1671180109252
+url: http://localhost:8080/api/inscricaesnotas/1
+name: Delete
+description: ""
+method: DELETE
+body: {}
+parameters: []
+headers:
+  - id: pair_fac4b4859de0493cb614f48694e493eb
+    name: x-access-token
+    value: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJVc3Vhcmlvc0lEIjoxLCJFbWFpbCI6ImFzc29mdEBvdXRsb29rLnB0IiwiRnVsbE5hbWUiOiJhZG1pbiIsIk5JRiI6IjAwMDAiLCJpYXQiOjE2NzEwODc3MTAsImV4cCI6MTY3MTUxOTcxMH0.9nbK_yv_ZTCrw5Vi7ZLZkAh60FHOBd_PdItcOEPPmDk
+    description: ""
+authentication: {}
+metaSortKey: -1664919923180
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,31 @@
+_id: req_3620d1f9f59e4b119eb41c9e972d5a0e
+type: Request
+parentId: fld_a9c8bbd2f8494de09fff95c8d2139e8a
+modified: 1667249391079
+created: 1667247660997
+url: http://localhost:8080/api/classes/2
+name: GET
+description: ""
+method: GET
+body: {}
+parameters: []
+headers:
+  - id: pair_8f2cbeacbb1e49a5922f0b954b047c79
+    name: x-access-token
+    value: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJVc3Vhcmlvc0lEIjo1LCJFbWFpbCI6ImFzc29mdEBvdXRsb29rLnB0IiwiRnVsbE5hbWUiOiJhZG1pbiIsIk5JRiI6IjAwMDAiLCJpYXQiOjE2NjcyNDc3OTYsImV4cCI6MTY2NzY3OTc5Nn0.cyIcCeKleAkaBc-cTqRhClPUuafzIGUXIFRSkDlXF4s
+    description: ""
+  - id: pair_dd429d27c35d42559fa3a9b765f58565
+    name: ""
+    value: ""
+    description: ""
+authentication:
+  type: bearer
+  token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJVc3Vhcmlvc0lEIjoxLCJFbWFpbCI6ImFzc29mdEBvdXRsb29rLnB0IiwiRnVsbE5hbWUiOiJhZG1pbiIsIk5JRiI6IjAwMDEwMSIsImlhdCI6MTY2NDkxOTg3MiwiZXhwIjoxNjY1MzUxODcyfQ.mlBBLrq5id_o9DbZkMQSTV3vTX1
+metaSortKey: -1664919923280
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

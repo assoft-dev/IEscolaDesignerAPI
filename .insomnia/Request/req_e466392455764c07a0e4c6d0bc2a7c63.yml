@@ -1,0 +1,31 @@
+_id: req_e466392455764c07a0e4c6d0bc2a7c63
+type: Request
+parentId: fld_84a4e8b14a4642e7a2201d3a32da4c9c
+modified: 1671181454798
+created: 1671181415995
+url: http://localhost:8080/api/inscricaesmatriculas
+name: GETALL
+description: ""
+method: GET
+body: {}
+parameters: []
+headers:
+  - id: pair_dfac2774c5ba46fe9941975425143ecd
+    name: x-access-token
+    value: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJVc3Vhcmlvc0lEIjoxLCJFbWFpbCI6ImFzc29mdEBvdXRsb29rLnB0IiwiRnVsbE5hbWUiOiJhZG1pbiIsIk5JRiI6IjAwMDAiLCJpYXQiOjE2NzEwODc3MTAsImV4cCI6MTY3MTUxOTcxMH0.9nbK_yv_ZTCrw5Vi7ZLZkAh60FHOBd_PdItcOEPPmDk
+    description: ""
+  - id: pair_af59873c3e734f3aafeab6da5a26f659
+    name: ""
+    value: ""
+    description: ""
+authentication:
+  type: bearer
+  token: ""
+metaSortKey: -1664919923255
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

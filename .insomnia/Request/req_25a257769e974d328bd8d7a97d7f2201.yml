@@ -1,0 +1,30 @@
+_id: req_25a257769e974d328bd8d7a97d7f2201
+type: Request
+parentId: fld_ad35c3f395d8458e944a2a613c12681c
+modified: 1669190574423
+created: 1662110937959
+url: http://localhost:8080/api/usuarios
+name: LOGINUSER
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: ""
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_3db50918525341818031993fb3367a2d
+  - id: pair_df4ce1e0936241f2b68cef7c0b7a22e4
+    name: ""
+    value: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJVc3Vhcmlvc0lEIjo1LCJFbWFpbCI6ImFzc29mdEBvdXRsb29rLnB0IiwiRnVsbE5hbWUiOiJhZG1pbiIsIk5JRiI6IjAwMDAiLCJpYXQiOjE2NjkxOTA1NDYsImV4cCI6MTY2OTYyMjU0Nn0.8JxjDZ0GCmRDLeKHQCr-b06lC6Ujv2HoPz1al2kpKxM
+    description: ""
+authentication: {}
+metaSortKey: -1660835965461.5
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,30 @@
+_id: req_73ce3f8245a74352a266d480764f326f
+type: Request
+parentId: fld_72b95e18344d47c09c156a488a637570
+modified: 1662373208949
+created: 1662370400882
+url: http://localhost:8080/api/estados/1
+name: GET
+description: ""
+method: GET
+body:
+  mimeType: application/json
+  text: ""
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_b0480ebdcb8f482b8531c5f43833b4e4
+  - id: pair_2eec7b971dae414da9bc4dd0a5309c36
+    name: x-access-token
+    value: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJVc3Vhcmlvc0lEIjoxLCJFbWFpbCI6ImFzc29mdEBvdXRsb29rLnB0IiwiTG9naW4iOiJhZG1pbiIsImlhdCI6MTY2MjM2OTU2NywiZXhwIjoxNjYyNDU1OTY3fQ.jU7llnjI2wMWlOjknt3O8i95JXj-UGydCC2DZi7xJvo
+    description: ""
+authentication: {}
+metaSortKey: -1662313294703
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

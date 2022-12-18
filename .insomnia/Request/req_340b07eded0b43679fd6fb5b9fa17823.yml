@@ -1,0 +1,25 @@
+_id: req_340b07eded0b43679fd6fb5b9fa17823
+type: Request
+parentId: fld_142687aa76064e788ebd98bb90a5e8a0
+modified: 1665336125825
+created: 1665336081770
+url: http://localhost:8080/api/trimestres/1
+name: Delete
+description: ""
+method: DELETE
+body: {}
+parameters: []
+headers:
+  - id: pair_fac4b4859de0493cb614f48694e493eb
+    name: x-access-token
+    value: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJVc3Vhcmlvc0lEIjoxLCJFbWFpbCI6ImFzc29mdEBvdXRsb29rLnB0IiwiRnVsbE5hbWUiOiJhZG1pbiIsIk5JRiI6IjAwMDEwMSIsImlhdCI6MTY2NDkyMDE0MiwiZXhwIjoxNjY1MzUyMTQyfQ.R-OEnOLnqSxFBxtKozReXFJIKlVNMpOxwa1xhhNEY14
+    description: ""
+authentication: {}
+metaSortKey: -1664919923180
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

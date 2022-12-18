@@ -1,0 +1,39 @@
+_id: req_0be0156166be4d2ca031b024f394cdfd
+type: Request
+parentId: fld_df67f4249e544355959a9e09ae627e36
+modified: 1663231964277
+created: 1662313310919
+url: http://localhost:8080/api/areaFormacao/1
+name: PUT
+description: ""
+method: PUT
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"AreaFormacaoID": "1",
+    	"Descricao":"Detalhes Sobres",
+    	"NIF":"000"	
+    }
+parameters: []
+headers:
+  - id: pair_1d7992266b584fab87f0dd4402a65521
+    name: x-access-token
+    value: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJVc3Vhcmlvc0lEIjoxLCJFbWFpbCI6ImFzc29mdEBvdXRsb29rLnB0IiwiTG9naW4iOiJhZG1pbiIsImlhdCI6MTY2MzIzMTg3MSwiZXhwIjoxNjYzNjYzODcxfQ.EKvx0u-rZdZCg8q6uUHASg_-6DJeAnBGdhk04W-pAls
+    description: ""
+  - id: pair_b56c87f3560340b58d066646ee97fc2b
+    name: ""
+    value: ""
+    description: ""
+  - name: Content-Type
+    value: application/json
+    id: pair_58c1acf0fabd4aaca7782f41a82dbaf1
+authentication: {}
+metaSortKey: -1662212124088
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

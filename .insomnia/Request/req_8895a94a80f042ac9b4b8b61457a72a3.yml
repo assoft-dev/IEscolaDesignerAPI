@@ -1,0 +1,38 @@
+_id: req_8895a94a80f042ac9b4b8b61457a72a3
+type: Request
+parentId: fld_ad35c3f395d8458e944a2a613c12681c
+modified: 1669190592649
+created: 1660737028957
+url: http://localhost:8080/api/usuarios
+name: GetUsuarios
+description: ""
+method: GET
+body:
+  mimeType: application/json
+  text: ""
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_cea0a6200c704296a4309d2f361b50bc
+  - id: pair_0ba476930f6e4047af105f7a557191b6
+    name: x-access-token
+    value: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJVc3Vhcmlvc0lEIjo1LCJFbWFpbCI6ImFzc29mdEBvdXRsb29rLnB0IiwiRnVsbE5hbWUiOiJhZG1pbiIsIk5JRiI6IjAwMDAiLCJpYXQiOjE2NjkxOTA1NDYsImV4cCI6MTY2OTYyMjU0Nn0.8JxjDZ0GCmRDLeKHQCr-b06lC6Ujv2HoPz1al2kpKxM
+    description: ""
+    disabled: false
+  - id: pair_e27cb05dd11f4a57969dcdebaf16df0c
+    name: ""
+    value: ""
+    description: ""
+authentication:
+  type: bearer
+  disabled: false
+  token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJVc3Vhcmlvc0lEIjoxLCJFbWFpbCI6Im91dGxvb2sucHRAaG90bWFpbC5jb20iLCJMb2dpbiI6IkZ1bGFub3MiLCJpYXQiOjE2NjIyOTI1NDIsImV4cCI6MTY2MjM3ODk0Mn0.IR-R8ZYUIC4I8Sff65Y-2cQLK-D875UG20Rt4OjTfzo
+metaSortKey: -1660835965561.5
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

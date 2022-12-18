@@ -1,0 +1,31 @@
+_id: req_4b816c5abe8647478c2aee0f85538658
+type: Request
+parentId: fld_70c8f12be85a4596a78d67cba720926f
+modified: 1671000669594
+created: 1670970516721
+url: http://localhost:8080/api/professores
+name: GETALL
+description: ""
+method: GET
+body: {}
+parameters: []
+headers:
+  - id: pair_dfac2774c5ba46fe9941975425143ecd
+    name: x-access-token
+    value: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJVc3Vhcmlvc0lEIjoyLCJFbWFpbCI6ImFzc29mdEBvdXRsb29rLnB0IiwiRnVsbE5hbWUiOiJhZG1pbiIsIk5JRiI6IjAwMDAiLCJpYXQiOjE2NzA5NzA0OTYsImV4cCI6MTY3MTQwMjQ5Nn0.nTNvVXa94M1dGMJnRtb1-0j6n5vS8mPr9FGEstNiLP8
+    description: ""
+  - id: pair_af59873c3e734f3aafeab6da5a26f659
+    name: ""
+    value: ""
+    description: ""
+authentication:
+  type: bearer
+  token: ""
+metaSortKey: -1664919923255
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

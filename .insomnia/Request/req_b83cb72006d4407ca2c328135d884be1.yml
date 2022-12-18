@@ -1,0 +1,35 @@
+_id: req_b83cb72006d4407ca2c328135d884be1
+type: Request
+parentId: fld_d137e171363b4d3ca4cfb2789ef3d3ef
+modified: 1667251130231
+created: 1667250654402
+url: http://localhost:8080/api/cursos/2
+name: PUT
+description: ""
+method: PUT
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"ClasseID": 2,
+    	"Descricao": "1145",
+    	"NIF": "0000"
+    }
+parameters: []
+headers:
+  - id: pair_0cb8ee37e15c42d4944a410f6f5e6cf5
+    name: x-access-token
+    value: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJVc3Vhcmlvc0lEIjo1LCJFbWFpbCI6ImFzc29mdEBvdXRsb29rLnB0IiwiRnVsbE5hbWUiOiJhZG1pbiIsIk5JRiI6IjAwMDAiLCJpYXQiOjE2NjcyNDc3OTYsImV4cCI6MTY2NzY3OTc5Nn0.cyIcCeKleAkaBc-cTqRhClPUuafzIGUXIFRSkDlXF4s
+    description: ""
+  - name: Content-Type
+    value: application/json
+    id: pair_4bde7d19452e4b428fa7010110a95264
+authentication: {}
+metaSortKey: -1664919923205
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

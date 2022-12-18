@@ -1,0 +1,33 @@
+_id: req_7d7b9bb9c33b4e49becd6e8635d1b9e6
+type: Request
+parentId: fld_276577560aa7489885d245aaf067a754
+modified: 1666625893632
+created: 1664919927619
+url: http://localhost:8080/api/provincias/1
+name: PUT
+description: ""
+method: PUT
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"Descricao": "dddddd",
+    	"NIF": "0000"
+    }
+parameters: []
+headers:
+  - id: pair_0cb8ee37e15c42d4944a410f6f5e6cf5
+    name: x-access-token
+    value: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJVc3Vhcmlvc0lEIjo1LCJFbWFpbCI6ImFzc29mdEBvdXRsb29rLnB0IiwiRnVsbE5hbWUiOiJhZG1pbiIsIk5JRiI6IjAwMDAiLCJpYXQiOjE2NjY2MjM1ODYsImV4cCI6MTY2NzA1NTU4Nn0._1cgbe_aKW7qzy3HSR1Bnzey2Z6Dd44K2s361ciX8N0
+    description: ""
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1664919923205
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

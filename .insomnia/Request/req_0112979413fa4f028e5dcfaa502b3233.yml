@@ -1,0 +1,36 @@
+_id: req_0112979413fa4f028e5dcfaa502b3233
+type: Request
+parentId: fld_ad29ad00b80a4a27b12446c06ac5b92e
+modified: 1665909200630
+created: 1665903074017
+url: http://localhost:8080/api/permissoes
+name: POST
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"Detalhes":"ADMINS",
+    	"Guardar":"1",
+    	"Excluir":"1",
+    	"NIF":"5000"
+    }
+parameters: []
+headers:
+  - id: pair_c1782597f51e45c49b3e3e2612bb7b35
+    name: x-access-token
+    value: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJVc3Vhcmlvc0lEIjoxLCJFbWFpbCI6ImFzc29mdEBvdXRsb29rLnB0IiwiRnVsbE5hbWUiOiJhZG1pbiIsIk5JRiI6IjAwMDEwMSIsImlhdCI6MTY2NTkwMzQ1OSwiZXhwIjoxNjY2MzM1NDU5fQ.zFwblC2oGRRREZO70mhAjgatHpoibBo5Blyfth6LB6c
+    description: ""
+  - name: Content-Type
+    value: application/json
+    id: pair_5017c75706fd482faa383c4a424e2ae4
+authentication: {}
+metaSortKey: -1662439295712
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

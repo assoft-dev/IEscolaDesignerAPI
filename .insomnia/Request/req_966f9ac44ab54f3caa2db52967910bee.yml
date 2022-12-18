@@ -1,0 +1,33 @@
+_id: req_966f9ac44ab54f3caa2db52967910bee
+type: Request
+parentId: fld_ad35c3f395d8458e944a2a613c12681c
+modified: 1669190586021
+created: 1663628147041
+url: http://localhost:8080/api/usuarios/authsecret
+name: GetAuthUsuariosRefre
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: >-
+    {
+    		"token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJVc3Vhcmlvc0lEIjoxLCJFbWFpbCI6ImFzc29mdEBvdXRsb29rLnB0IiwiRnVsbE5hbWUiOiJhZG1pbiIsIk5JRiI6IjAwMDEwMSIsImlhdCI6MTY2MzYyODIwOSwiZXhwIjoxNjY0MDYwMjA5fQ.-tmjTmB2zQV3Dp8_25PfqdrXO8MKs6kmKl0Dr6AMg2o"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_e2edf39814234a68a33b0aef3e005384
+  - id: pair_166e0134bc6844f5960e71f4aa95ea79
+    name: x-access-token
+    value: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJVc3Vhcmlvc0lEIjo1LCJFbWFpbCI6ImFzc29mdEBvdXRsb29rLnB0IiwiRnVsbE5hbWUiOiJhZG1pbiIsIk5JRiI6IjAwMDAiLCJpYXQiOjE2NjkxOTA1NDYsImV4cCI6MTY2OTYyMjU0Nn0.8JxjDZ0GCmRDLeKHQCr-b06lC6Ujv2HoPz1al2kpKxM
+    description: ""
+authentication: {}
+metaSortKey: -1660885467214.25
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

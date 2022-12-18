@@ -1,0 +1,27 @@
+_id: req_6086364d89dd4a2b86ee500e69ec87ea
+type: Request
+parentId: fld_142687aa76064e788ebd98bb90a5e8a0
+modified: 1665336117126
+created: 1665336081774
+url: http://localhost:8080/api/trimestres/1
+name: GET
+description: ""
+method: GET
+body: {}
+parameters: []
+headers:
+  - id: pair_8f2cbeacbb1e49a5922f0b954b047c79
+    name: x-access-token
+    value: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJVc3Vhcmlvc0lEIjoxLCJFbWFpbCI6ImFzc29mdEBvdXRsb29rLnB0IiwiRnVsbE5hbWUiOiJhZG1pbiIsIk5JRiI6IjAwMDEwMSIsImlhdCI6MTY2NDkyMDE0MiwiZXhwIjoxNjY1MzUyMTQyfQ.R-OEnOLnqSxFBxtKozReXFJIKlVNMpOxwa1xhhNEY14
+    description: ""
+authentication:
+  type: bearer
+  token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJVc3Vhcmlvc0lEIjoxLCJFbWFpbCI6ImFzc29mdEBvdXRsb29rLnB0IiwiRnVsbE5hbWUiOiJhZG1pbiIsIk5JRiI6IjAwMDEwMSIsImlhdCI6MTY2NDkxOTg3MiwiZXhwIjoxNjY1MzUxODcyfQ.mlBBLrq5id_o9DbZkMQSTV3vTX1
+metaSortKey: -1664919923280
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

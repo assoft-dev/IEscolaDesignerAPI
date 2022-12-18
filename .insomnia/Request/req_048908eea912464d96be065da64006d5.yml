@@ -1,0 +1,31 @@
+_id: req_048908eea912464d96be065da64006d5
+type: Request
+parentId: fld_276577560aa7489885d245aaf067a754
+modified: 1666625671462
+created: 1664920080239
+url: http://localhost:8080/api/provincias
+name: GETALL
+description: ""
+method: GET
+body: {}
+parameters: []
+headers:
+  - id: pair_dfac2774c5ba46fe9941975425143ecd
+    name: x-access-token
+    value: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJVc3Vhcmlvc0lEIjo1LCJFbWFpbCI6ImFzc29mdEBvdXRsb29rLnB0IiwiRnVsbE5hbWUiOiJhZG1pbiIsIk5JRiI6IjAwMDAiLCJpYXQiOjE2NjY2MjM1ODYsImV4cCI6MTY2NzA1NTU4Nn0._1cgbe_aKW7qzy3HSR1Bnzey2Z6Dd44K2s361ciX8N0
+    description: ""
+  - id: pair_af59873c3e734f3aafeab6da5a26f659
+    name: ""
+    value: ""
+    description: ""
+authentication:
+  type: bearer
+  token: ""
+metaSortKey: -1664919923255
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

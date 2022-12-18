@@ -1,0 +1,34 @@
+_id: req_1822dea353c948d1a9eaca794ff94866
+type: Request
+parentId: fld_d137e171363b4d3ca4cfb2789ef3d3ef
+modified: 1667251167558
+created: 1667250654404
+url: http://localhost:8080/api/cursos
+name: POST
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"Descricao": "10* Classe 0sxs,n00",
+    	"NIF": "0000"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_ed67bdcb852f49a9beaf66bbbd3b875b
+  - id: pair_50631d5f76ee48b18f0f7977a0ee6f2a
+    name: x-access-token
+    value: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJVc3Vhcmlvc0lEIjo1LCJFbWFpbCI6ImFzc29mdEBvdXRsb29rLnB0IiwiRnVsbE5hbWUiOiJhZG1pbiIsIk5JRiI6IjAwMDAiLCJpYXQiOjE2NjcyNDc3OTYsImV4cCI6MTY2NzY3OTc5Nn0.cyIcCeKleAkaBc-cTqRhClPUuafzIGUXIFRSkDlXF4s
+    description: ""
+authentication: {}
+metaSortKey: -1664919923230
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

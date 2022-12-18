@@ -1,0 +1,31 @@
+_id: req_3238524f01ee4ed89cb5eebe60b3f704
+type: Request
+parentId: fld_a4cef2a65d4a41bc96c13a9b58918906
+modified: 1671178149503
+created: 1671178114456
+url: http://localhost:8080/api/inscricoes
+name: GETALL
+description: ""
+method: GET
+body: {}
+parameters: []
+headers:
+  - id: pair_dfac2774c5ba46fe9941975425143ecd
+    name: x-access-token
+    value: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJVc3Vhcmlvc0lEIjoxLCJFbWFpbCI6ImFzc29mdEBvdXRsb29rLnB0IiwiRnVsbE5hbWUiOiJhZG1pbiIsIk5JRiI6IjAwMDAiLCJpYXQiOjE2NzEwODc3MTAsImV4cCI6MTY3MTUxOTcxMH0.9nbK_yv_ZTCrw5Vi7ZLZkAh60FHOBd_PdItcOEPPmDk
+    description: ""
+  - id: pair_af59873c3e734f3aafeab6da5a26f659
+    name: ""
+    value: ""
+    description: ""
+authentication:
+  type: bearer
+  token: ""
+metaSortKey: -1664919923255
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

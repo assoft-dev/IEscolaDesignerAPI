@@ -1,0 +1,25 @@
+_id: req_03d702dce2514ab0944e011448d1b34b
+type: Request
+parentId: fld_ad29ad00b80a4a27b12446c06ac5b92e
+modified: 1665908776241
+created: 1665903627922
+url: http://localhost:8080/api/permissoes
+name: GETALL
+description: ""
+method: GET
+body: {}
+parameters: []
+headers:
+  - id: pair_a2daf7f2a2b64597a584dc24bf7c8034
+    name: x-access-token
+    value: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJVc3Vhcmlvc0lEIjoxLCJFbWFpbCI6ImFzc29mdEBvdXRsb29rLnB0IiwiRnVsbE5hbWUiOiJhZG1pbiIsIk5JRiI6IjAwMDEwMSIsImlhdCI6MTY2NTkwMzQ1OSwiZXhwIjoxNjY2MzM1NDU5fQ.zFwblC2oGRRREZO70mhAjgatHpoibBo5Blyfth6LB6c
+    description: ""
+authentication: {}
+metaSortKey: -1662549546594.875
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

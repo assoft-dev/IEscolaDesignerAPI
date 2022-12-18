@@ -1,0 +1,25 @@
+_id: req_88ce6bf57fed417eba6662eec178b199
+type: Request
+parentId: fld_ad29ad00b80a4a27b12446c06ac5b92e
+modified: 1665909186163
+created: 1665903074015
+url: http://localhost:8080/api/permissoes/1
+name: GET
+description: ""
+method: GET
+body: {}
+parameters: []
+headers:
+  - id: pair_a2daf7f2a2b64597a584dc24bf7c8034
+    name: x-access-token
+    value: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJVc3Vhcmlvc0lEIjoxLCJFbWFpbCI6ImFzc29mdEBvdXRsb29rLnB0IiwiRnVsbE5hbWUiOiJhZG1pbiIsIk5JRiI6IjAwMDEwMSIsImlhdCI6MTY2NTkwMzQ1OSwiZXhwIjoxNjY2MzM1NDU5fQ.zFwblC2oGRRREZO70mhAjgatHpoibBo5Blyfth6LB6c
+    description: ""
+authentication: {}
+metaSortKey: -1662565296721
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

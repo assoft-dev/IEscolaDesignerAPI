@@ -1,0 +1,39 @@
+_id: req_8eaed2357f0d4b86b4c5a64bd06179d0
+type: Request
+parentId: fld_72b95e18344d47c09c156a488a637570
+modified: 1662377273805
+created: 1662370400883
+url: http://localhost:8080/api/estados/1
+name: PUT
+description: ""
+method: PUT
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"EstadoID": "1",
+    	"Descricao":"Detalhes Sobres",
+    	"NIF":"000"	
+    }
+parameters: []
+headers:
+  - id: pair_1d7992266b584fab87f0dd4402a65521
+    name: x-access-token
+    value: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJVc3Vhcmlvc0lEIjoxLCJFbWFpbCI6ImFzc29mdEBvdXRsb29rLnB0IiwiTG9naW4iOiJhZG1pbiIsImlhdCI6MTY2MjM2OTU2NywiZXhwIjoxNjYyNDU1OTY3fQ.jU7llnjI2wMWlOjknt3O8i95JXj-UGydCC2DZi7xJvo
+    description: ""
+  - id: pair_b56c87f3560340b58d066646ee97fc2b
+    name: ""
+    value: ""
+    description: ""
+  - name: Content-Type
+    value: application/json
+    id: pair_58c1acf0fabd4aaca7782f41a82dbaf1
+authentication: {}
+metaSortKey: -1662212124088
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

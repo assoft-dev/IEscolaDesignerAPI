@@ -1,0 +1,27 @@
+_id: req_7407b3fb366341d79764379c9ed8f4a3
+type: Request
+parentId: fld_cdc2cef06cd544cb965fde7e5f4ad5be
+modified: 1665335175297
+created: 1665335175297
+url: http://localhost:8080/api/Provincias/1
+name: GET
+description: ""
+method: GET
+body: {}
+parameters: []
+headers:
+  - id: pair_8f2cbeacbb1e49a5922f0b954b047c79
+    name: x-access-token
+    value: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJVc3Vhcmlvc0lEIjoxLCJFbWFpbCI6ImFzc29mdEBvdXRsb29rLnB0IiwiRnVsbE5hbWUiOiJhZG1pbiIsIk5JRiI6IjAwMDEwMSIsImlhdCI6MTY2NDkyMDE0MiwiZXhwIjoxNjY1MzUyMTQyfQ.R-OEnOLnqSxFBxtKozReXFJIKlVNMpOxwa1xhhNEY14
+    description: ""
+authentication:
+  type: bearer
+  token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJVc3Vhcmlvc0lEIjoxLCJFbWFpbCI6ImFzc29mdEBvdXRsb29rLnB0IiwiRnVsbE5hbWUiOiJhZG1pbiIsIk5JRiI6IjAwMDEwMSIsImlhdCI6MTY2NDkxOTg3MiwiZXhwIjoxNjY1MzUxODcyfQ.mlBBLrq5id_o9DbZkMQSTV3vTX1
+metaSortKey: -1664919923280
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

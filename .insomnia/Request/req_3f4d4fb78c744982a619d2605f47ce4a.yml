@@ -1,0 +1,62 @@
+_id: req_3f4d4fb78c744982a619d2605f47ce4a
+type: Request
+parentId: fld_9be4b6b832df4131a42c004703661891
+modified: 1671178661011
+created: 1671178632561
+url: http://localhost:8080/api/inscricoestestes
+name: POST
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	  "Codigo": "CC 125/2022",
+        "FullName": "Alberto",
+        "LastName": "Sapato",
+        "Naturalidade": "Angola",
+        "Nacionalidade": "Angola",
+        "Email": "admins@hotmail.com",
+        "Data": "12-11-2022",
+        "NumeroContribuinte": "00555124",
+        "NumeroAgente": "98999555",
+        "Idade": "19",
+        "BI": "0955552",
+        "LocalEmissao": "Huambo",
+        "DataEmissao": "10-10-2022",
+        "DataExpiracao": "10-10-2022",
+        "Residencia": "",
+        "Endereco": "",
+        "Contacto": "",
+        "Celular": "",
+        "EmailFacebbok": "",
+        "CursoID": "1",
+        "CategoriaID": "1",
+        "ProvinciaMunicipioID": "1",
+        "AreaFormacaoID": "1",
+        "EstadoID": "1",
+        "Sexo": "MASCULINO",
+        "EstadoCivil": "CASADO",
+        "Estado": "1",
+        "AbilitacoesLiterarias": "LICENCIADO",
+        "ImageDataURL": "",
+        "NIF": "0000"
+    }
+parameters: []
+headers:
+  - id: pair_0b9ae6279cdf4099b44b953f8de9cc5a
+    name: x-access-token
+    value: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJVc3Vhcmlvc0lEIjoxLCJFbWFpbCI6ImFzc29mdEBvdXRsb29rLnB0IiwiRnVsbE5hbWUiOiJhZG1pbiIsIk5JRiI6IjAwMDAiLCJpYXQiOjE2NzEwODc3MTAsImV4cCI6MTY3MTUxOTcxMH0.9nbK_yv_ZTCrw5Vi7ZLZkAh60FHOBd_PdItcOEPPmDk
+    description: ""
+  - name: Content-Type
+    value: application/json
+    id: pair_ed67bdcb852f49a9beaf66bbbd3b875b
+authentication: {}
+metaSortKey: -1664919923230
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

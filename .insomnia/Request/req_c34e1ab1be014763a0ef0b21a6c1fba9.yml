@@ -1,0 +1,25 @@
+_id: req_c34e1ab1be014763a0ef0b21a6c1fba9
+type: Request
+parentId: fld_df67f4249e544355959a9e09ae627e36
+modified: 1663232289528
+created: 1662313327514
+url: http://localhost:8080/api/areaFormacao/4
+name: DELETE
+description: ""
+method: DELETE
+body: {}
+parameters: []
+headers:
+  - id: pair_3117c157190f4744a2dadcbb627d6434
+    name: x-access-token
+    value: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJVc3Vhcmlvc0lEIjoxLCJFbWFpbCI6ImFzc29mdEBvdXRsb29rLnB0IiwiTG9naW4iOiJhZG1pbiIsImlhdCI6MTY2MzIzMTg3MSwiZXhwIjoxNjYzNjYzODcxfQ.EKvx0u-rZdZCg8q6uUHASg_-6DJeAnBGdhk04W-pAls
+    description: ""
+authentication: {}
+metaSortKey: -1662288001974.25
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

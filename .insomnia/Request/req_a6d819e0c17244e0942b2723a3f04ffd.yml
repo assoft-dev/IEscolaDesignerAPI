@@ -1,0 +1,39 @@
+_id: req_a6d819e0c17244e0942b2723a3f04ffd
+type: Request
+parentId: fld_a84e6829279447c79891f4c72b355d3f
+modified: 1666624285565
+created: 1662377296853
+url: http://localhost:8080/api/categorias/1
+name: PUT
+description: ""
+method: PUT
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"EstadoID": "1",
+    	"Descricao":"Detalhes SobSSSSres",
+    	"NIF":"EWWW2"
+    }
+parameters: []
+headers:
+  - id: pair_1d7992266b584fab87f0dd4402a65521
+    name: x-access-token
+    value: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJVc3Vhcmlvc0lEIjo1LCJFbWFpbCI6ImFzc29mdEBvdXRsb29rLnB0IiwiRnVsbE5hbWUiOiJhZG1pbiIsIk5JRiI6IjAwMDAiLCJpYXQiOjE2NjY2MjM1ODYsImV4cCI6MTY2NzA1NTU4Nn0._1cgbe_aKW7qzy3HSR1Bnzey2Z6Dd44K2s361ciX8N0
+    description: ""
+  - id: pair_b56c87f3560340b58d066646ee97fc2b
+    name: ""
+    value: ""
+    description: ""
+  - name: Content-Type
+    value: application/json
+    id: pair_58c1acf0fabd4aaca7782f41a82dbaf1
+authentication: {}
+metaSortKey: -1662212124088
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
