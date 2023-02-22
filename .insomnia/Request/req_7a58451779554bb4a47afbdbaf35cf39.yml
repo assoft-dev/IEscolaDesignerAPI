@@ -1,0 +1,47 @@
+_id: req_7a58451779554bb4a47afbdbaf35cf39
+type: Request
+parentId: fld_e9f60d14bab84440994729acdaa2fb04
+modified: 1676973728921
+created: 1676967628921
+url: http://localhost:8080/api/Entidades/1
+name: PUT
+description: ""
+method: PUT
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"Descricao": "ESCOLAS",
+    	"AssinaturaDirector" : "EDIS",
+    	"AssinaturaSubDirector": "0000",
+    	"ImageDataURL": "0000",
+    	"ProvinciaMunicipioID": "1",
+    	"Header1": "0000",
+    	"Header2": "0000",
+    	"Header3": "0000",
+    	"HeaderImagem": "0000",
+    	"ProvinciaCodigo": "0000",
+    	"EscolaCodigo": "0000",
+    	"Estatuto": "0000",
+    	"FazemTeste": "0000",
+    	"NIF": "0000",
+    	"EntidadeID":"1"
+    }
+parameters: []
+headers:
+  - id: pair_0cb8ee37e15c42d4944a410f6f5e6cf5
+    name: "{{ _.TokenAcess }}"
+    value: "{{ _.Token }}"
+    description: ""
+  - name: Content-Type
+    value: application/json
+    id: pair_d5f23fe82fff4aa483c6bdacdd06aec1
+authentication: {}
+metaSortKey: -1664919923205
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

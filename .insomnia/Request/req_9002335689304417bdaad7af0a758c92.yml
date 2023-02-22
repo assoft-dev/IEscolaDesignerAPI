@@ -1,0 +1,31 @@
+_id: req_9002335689304417bdaad7af0a758c92
+type: Request
+parentId: fld_e9f60d14bab84440994729acdaa2fb04
+modified: 1676967677277
+created: 1676967628924
+url: http://localhost:8080/api/Entidades/1
+name: GET
+description: ""
+method: GET
+body: {}
+parameters: []
+headers:
+  - id: pair_8f2cbeacbb1e49a5922f0b954b047c79
+    name: "{{ _.TokenAcess }}"
+    value: "{{ _.Token }}"
+    description: ""
+  - id: pair_dd429d27c35d42559fa3a9b765f58565
+    name: ""
+    value: ""
+    description: ""
+authentication:
+  type: bearer
+  token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJVc3Vhcmlvc0lEIjoxLCJFbWFpbCI6ImFzc29mdEBvdXRsb29rLnB0IiwiRnVsbE5hbWUiOiJhZG1pbiIsIk5JRiI6IjAwMDEwMSIsImlhdCI6MTY2NDkxOTg3MiwiZXhwIjoxNjY1MzUxODcyfQ.mlBBLrq5id_o9DbZkMQSTV3vTX1
+metaSortKey: -1664919923280
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

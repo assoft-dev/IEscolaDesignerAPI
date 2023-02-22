@@ -1,0 +1,31 @@
+_id: req_f26adbaf6a9f4842934b90cc1d928d1f
+type: Request
+parentId: fld_e9f60d14bab84440994729acdaa2fb04
+modified: 1676967686053
+created: 1676967628925
+url: http://localhost:8080/api/Entidades
+name: GETALL
+description: ""
+method: GET
+body: {}
+parameters: []
+headers:
+  - id: pair_dfac2774c5ba46fe9941975425143ecd
+    name: "{{ _.TokenAcess }}"
+    value: "{{ _.Token }}"
+    description: ""
+  - id: pair_af59873c3e734f3aafeab6da5a26f659
+    name: ""
+    value: ""
+    description: ""
+authentication:
+  type: bearer
+  token: ""
+metaSortKey: -1664919923255
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

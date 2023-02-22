@@ -1,0 +1,25 @@
+_id: req_05f378c68a274846a818ad95efad1724
+type: Request
+parentId: fld_e9f60d14bab84440994729acdaa2fb04
+modified: 1676967695831
+created: 1676967628920
+url: http://localhost:8080/api/Entidades/1
+name: Delete
+description: ""
+method: DELETE
+body: {}
+parameters: []
+headers:
+  - id: pair_fac4b4859de0493cb614f48694e493eb
+    name: "{{ _.TokenAcess }}"
+    value: "{{ _.Token }}"
+    description: ""
+authentication: {}
+metaSortKey: -1664919923180
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
