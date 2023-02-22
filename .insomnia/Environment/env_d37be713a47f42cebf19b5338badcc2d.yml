@@ -1,11 +1,16 @@
 _id: env_d37be713a47f42cebf19b5338badcc2d
 type: Environment
 parentId: env_b569af7c10715fce3f3db6aa76abf3b3e40fe22a
-modified: 1667247756909
+modified: 1676967475042
 created: 1667247756369
-name: New Environment
-data: {}
-dataPropertyOrder: {}
+name: Produtions
+data:
+  Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJVc3Vhcmlvc0lEIjoxLCJFbWFpbCI6ImFzc29mdEBvdXRsb29rLnB0IiwiRnVsbE5hbWUiOiJhZG1pbiIsIk5JRiI6IjAwMDAiLCJFbnRpZGFkZSI6bnVsbCwiaWF0IjoxNjc2OTYzNTQyLCJleHAiOjE2NzczOTU1NDJ9.ZdEPlCHMMwnvYDgSSVKNCsbu3sSODa0fYyVxMGwTKzs
+  TokenAcess: x-access-token
+dataPropertyOrder:
+  "&":
+    - Token
+    - TokenAcess
 color: null
 isPrivate: false
 metaSortKey: 1667247756369

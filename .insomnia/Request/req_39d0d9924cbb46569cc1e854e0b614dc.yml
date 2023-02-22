@@ -1,7 +1,7 @@
 _id: req_39d0d9924cbb46569cc1e854e0b614dc
 type: Request
 parentId: fld_ad35c3f395d8458e944a2a613c12681c
-modified: 1671087735972
+modified: 1676833155934
 created: 1660934968867
 url: http://localhost:8080/api/usuarios/auth
 name: GetAuthUsuarios
@@ -19,10 +19,6 @@ headers:
   - name: Content-Type
     value: application/json
     id: pair_e2edf39814234a68a33b0aef3e005384
-  - id: pair_166e0134bc6844f5960e71f4aa95ea79
-    name: x-access-token
-    value: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJVc3Vhcmlvc0lEIjoxLCJFbWFpbCI6ImFzc29mdEBvdXRsb29rLnB0IiwiRnVsbE5hbWUiOiJhZG1pbiIsIk5JRiI6IjAwMDAiLCJpYXQiOjE2NzEwODc3MTAsImV4cCI6MTY3MTUxOTcxMH0.9nbK_yv_ZTCrw5Vi7ZLZkAh60FHOBd_PdItcOEPPmDk
-    description: ""
 authentication: {}
 metaSortKey: -1660934968867
 isPrivate: false

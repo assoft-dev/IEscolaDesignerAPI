@@ -1,7 +1,7 @@
 _id: req_cdac7e0388d1471ab4139be26625ed07
 type: Request
 parentId: fld_276577560aa7489885d245aaf067a754
-modified: 1666733042724
+modified: 1676970141892
 created: 1664919928914
 url: http://localhost:8080/api/provincias
 name: POST
@@ -11,14 +11,14 @@ body:
   mimeType: application/json
   text: |-
     {
-    	"Descricao": "sddddd",
+    	"Descricao": "MALANJE",
     	"NIF": "0000"
     }
 parameters: []
 headers:
   - id: pair_0b9ae6279cdf4099b44b953f8de9cc5a
-    name: x-access-token
-    value: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJVc3Vhcmlvc0lEIjo1LCJFbWFpbCI6ImFzc29mdEBvdXRsb29rLnB0IiwiRnVsbE5hbWUiOiJhZG1pbiIsIk5JRiI6IjAwMDAiLCJpYXQiOjE2NjY2MjM1ODYsImV4cCI6MTY2NzA1NTU4Nn0._1cgbe_aKW7qzy3HSR1Bnzey2Z6Dd44K2s361ciX8N0
+    name: "{{ _.TokenAcess }}"
+    value: "{{ _.Token }}"
     description: ""
   - name: Content-Type
     value: application/json

@@ -1,7 +1,7 @@
 _id: req_f739eab83dc94895a0e5cfbd78803231
 type: Request
 parentId: fld_276577560aa7489885d245aaf067a754
-modified: 1666821234022
+modified: 1676967558801
 created: 1664919931018
 url: http://localhost:8080/api/provincias/1
 name: GET
@@ -11,8 +11,8 @@ body: {}
 parameters: []
 headers:
   - id: pair_8f2cbeacbb1e49a5922f0b954b047c79
-    name: x-access-token
-    value: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJVc3Vhcmlvc0lEIjo1LCJFbWFpbCI6ImFzc29mdEBvdXRsb29rLnB0IiwiRnVsbE5hbWUiOiJhZG1pbiIsIk5JRiI6IjAwMDAiLCJpYXQiOjE2NjY2MjM1ODYsImV4cCI6MTY2NzA1NTU4Nn0._1cgbe_aKW7qzy3HSR1Bnzey2Z6Dd44K2s361ciX8N0
+    name: "{{ _.TokenAcess }}"
+    value: "{{ _.Token }}"
     description: ""
   - id: pair_dd429d27c35d42559fa3a9b765f58565
     name: ""

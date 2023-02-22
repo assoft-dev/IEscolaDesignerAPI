@@ -1,9 +1,9 @@
 _id: req_3f4d4fb78c744982a619d2605f47ce4a
 type: Request
 parentId: fld_9be4b6b832df4131a42c004703661891
-modified: 1671178661011
+modified: 1676981262354
 created: 1671178632561
-url: http://localhost:8080/api/inscricoestestes
+url: http://localhost:8080/api/inscricoesTestes/all
 name: POST
 description: ""
 method: POST

@@ -1,7 +1,7 @@
 _id: req_040791c7323f4eee9e08f19add1ec712
 type: Request
 parentId: fld_85285c3f39c14ebaa5e523e7563ee866
-modified: 1666625643936
+modified: 1676970416176
 created: 1666625643936
 url: http://localhost:8080/api/provinciamunicipios
 name: GETALL
@@ -11,8 +11,8 @@ body: {}
 parameters: []
 headers:
   - id: pair_dfac2774c5ba46fe9941975425143ecd
-    name: x-access-token
-    value: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJVc3Vhcmlvc0lEIjo1LCJFbWFpbCI6ImFzc29mdEBvdXRsb29rLnB0IiwiRnVsbE5hbWUiOiJhZG1pbiIsIk5JRiI6IjAwMDAiLCJpYXQiOjE2NjY2MjM1ODYsImV4cCI6MTY2NzA1NTU4Nn0._1cgbe_aKW7qzy3HSR1Bnzey2Z6Dd44K2s361ciX8N0
+    name: "{{ _.TokenAcess }}"
+    value: "{{ _.Token }}"
     description: ""
   - id: pair_af59873c3e734f3aafeab6da5a26f659
     name: ""

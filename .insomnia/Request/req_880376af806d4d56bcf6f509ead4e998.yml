@@ -1,7 +1,7 @@
 _id: req_880376af806d4d56bcf6f509ead4e998
 type: Request
 parentId: fld_02cb5157b49446e09b8dbf46120bfae4
-modified: 1666626310794
+modified: 1676970208725
 created: 1666626059951
 url: http://localhost:8080/api/municipios/1
 name: PUT
@@ -17,11 +17,12 @@ body:
 parameters: []
 headers:
   - id: pair_0cb8ee37e15c42d4944a410f6f5e6cf5
-    name: x-access-token
-    value: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJVc3Vhcmlvc0lEIjo1LCJFbWFpbCI6ImFzc29mdEBvdXRsb29rLnB0IiwiRnVsbE5hbWUiOiJhZG1pbiIsIk5JRiI6IjAwMDAiLCJpYXQiOjE2NjY2MjM1ODYsImV4cCI6MTY2NzA1NTU4Nn0._1cgbe_aKW7qzy3HSR1Bnzey2Z6Dd44K2s361ciX8N0
+    name: "{{ _.TokenAcess }}"
+    value: "{{ _.Token }}"
     description: ""
   - name: Content-Type
     value: application/json
+    id: pair_917edd5eca8a46128e48365a6c14db45
 authentication: {}
 metaSortKey: -1664919923205
 isPrivate: false

@@ -1,7 +1,7 @@
 _id: req_8895a94a80f042ac9b4b8b61457a72a3
 type: Request
 parentId: fld_ad35c3f395d8458e944a2a613c12681c
-modified: 1669190592649
+modified: 1676965085913
 created: 1660737028957
 url: http://localhost:8080/api/usuarios
 name: GetUsuarios
@@ -17,7 +17,7 @@ headers:
     id: pair_cea0a6200c704296a4309d2f361b50bc
   - id: pair_0ba476930f6e4047af105f7a557191b6
     name: x-access-token
-    value: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJVc3Vhcmlvc0lEIjo1LCJFbWFpbCI6ImFzc29mdEBvdXRsb29rLnB0IiwiRnVsbE5hbWUiOiJhZG1pbiIsIk5JRiI6IjAwMDAiLCJpYXQiOjE2NjkxOTA1NDYsImV4cCI6MTY2OTYyMjU0Nn0.8JxjDZ0GCmRDLeKHQCr-b06lC6Ujv2HoPz1al2kpKxM
+    value: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJVc3Vhcmlvc0lEIjoxLCJFbWFpbCI6ImFzc29mdEBvdXRsb29rLnB0IiwiRnVsbE5hbWUiOiJhZG1pbiIsIk5JRiI6IjAwMDAiLCJFbnRpZGFkZSI6bnVsbCwiaWF0IjoxNjc2OTYzNTQyLCJleHAiOjE2NzczOTU1NDJ9.ZdEPlCHMMwnvYDgSSVKNCsbu3sSODa0fYyVxMGwTKzs
     description: ""
     disabled: false
   - id: pair_e27cb05dd11f4a57969dcdebaf16df0c

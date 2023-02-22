@@ -1,7 +1,7 @@
 _id: req_966f9ac44ab54f3caa2db52967910bee
 type: Request
 parentId: fld_ad35c3f395d8458e944a2a613c12681c
-modified: 1669190586021
+modified: 1676825916146
 created: 1663628147041
 url: http://localhost:8080/api/usuarios/authsecret
 name: GetAuthUsuariosRefre
@@ -11,7 +11,9 @@ body:
   mimeType: application/json
   text: >-
     {
-    		"token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJVc3Vhcmlvc0lEIjoxLCJFbWFpbCI6ImFzc29mdEBvdXRsb29rLnB0IiwiRnVsbE5hbWUiOiJhZG1pbiIsIk5JRiI6IjAwMDEwMSIsImlhdCI6MTY2MzYyODIwOSwiZXhwIjoxNjY0MDYwMjA5fQ.-tmjTmB2zQV3Dp8_25PfqdrXO8MKs6kmKl0Dr6AMg2o"
+    		"token":
+    "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJVc3Vhcmlvc0lEIjoxLCJFbWFpbCI6ImFzc29mdEBvdXRsb29rLnB0IiwiRnVsbE5hbWUiOiJhZG1pbiIsIk5JRiI6IjAwMDEwMSIsImlhdCI6MTY2MzYyODIwOSwiZXhwIjoxNjY0MDYwMjA5fQ.-tmjTmB2zQV3Dp8_25PfqdrXO8MKs6kmKl0Dr6AMg2o"
+
     }
 parameters: []
 headers:
