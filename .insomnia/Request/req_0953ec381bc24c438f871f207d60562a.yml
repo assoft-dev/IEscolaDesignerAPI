@@ -1,7 +1,7 @@
 _id: req_0953ec381bc24c438f871f207d60562a
 type: Request
 parentId: fld_9be4b6b832df4131a42c004703661891
-modified: 1671178675164
+modified: 1677137295862
 created: 1671178632558
 url: http://localhost:8080/api/inscricoestestes/1
 name: PUT
@@ -17,8 +17,8 @@ body:
 parameters: []
 headers:
   - id: pair_0cb8ee37e15c42d4944a410f6f5e6cf5
-    name: x-access-token
-    value: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJVc3Vhcmlvc0lEIjoxLCJFbWFpbCI6ImFzc29mdEBvdXRsb29rLnB0IiwiRnVsbE5hbWUiOiJhZG1pbiIsIk5JRiI6IjAwMDAiLCJpYXQiOjE2NzEwODc3MTAsImV4cCI6MTY3MTUxOTcxMH0.9nbK_yv_ZTCrw5Vi7ZLZkAh60FHOBd_PdItcOEPPmDk
+    name: "{{ _.TokenAcess }}"
+    value: "{{ _.Token }}"
     description: ""
   - name: Content-Type
     value: application/json

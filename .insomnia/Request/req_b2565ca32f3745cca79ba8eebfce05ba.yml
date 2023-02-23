@@ -1,9 +1,9 @@
 _id: req_b2565ca32f3745cca79ba8eebfce05ba
 type: Request
 parentId: fld_a4cef2a65d4a41bc96c13a9b58918906
-modified: 1676965231866
+modified: 1677132817368
 created: 1671178114453
-url: http://localhost:8080/api/inscricoes
+url: http://localhost:8080/api/inscricoes/1
 name: GET
 description: ""
 method: GET

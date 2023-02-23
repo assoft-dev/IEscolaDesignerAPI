@@ -1,7 +1,7 @@
 _id: req_2a05f7209be54527a12dfcdb08531152
 type: Request
 parentId: fld_d137e171363b4d3ca4cfb2789ef3d3ef
-modified: 1667250768040
+modified: 1677132618610
 created: 1667250654406
 url: http://localhost:8080/api/cursos/2
 name: GET
@@ -11,8 +11,8 @@ body: {}
 parameters: []
 headers:
   - id: pair_8f2cbeacbb1e49a5922f0b954b047c79
-    name: x-access-token
-    value: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJVc3Vhcmlvc0lEIjo1LCJFbWFpbCI6ImFzc29mdEBvdXRsb29rLnB0IiwiRnVsbE5hbWUiOiJhZG1pbiIsIk5JRiI6IjAwMDAiLCJpYXQiOjE2NjcyNDc3OTYsImV4cCI6MTY2NzY3OTc5Nn0.cyIcCeKleAkaBc-cTqRhClPUuafzIGUXIFRSkDlXF4s
+    name: "{{ _.TokenAcess }}"
+    value: "{{ _.Token }}"
     description: ""
   - id: pair_dd429d27c35d42559fa3a9b765f58565
     name: ""

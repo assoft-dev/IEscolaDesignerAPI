@@ -1,7 +1,7 @@
 _id: req_7a58451779554bb4a47afbdbaf35cf39
 type: Request
 parentId: fld_e9f60d14bab84440994729acdaa2fb04
-modified: 1676973728921
+modified: 1677103294484
 created: 1676967628921
 url: http://localhost:8080/api/Entidades/1
 name: PUT
@@ -11,21 +11,21 @@ body:
   mimeType: application/json
   text: |-
     {
+    	"EntidadeID": 1,
     	"Descricao": "ESCOLAS",
-    	"AssinaturaDirector" : "EDIS",
+    	"AssinaturaDirector": "EDIS",
     	"AssinaturaSubDirector": "0000",
     	"ImageDataURL": "0000",
-    	"ProvinciaMunicipioID": "1",
+    	"ProvinciaMunicipioID": 1,
     	"Header1": "0000",
     	"Header2": "0000",
     	"Header3": "0000",
     	"HeaderImagem": "0000",
-    	"ProvinciaCodigo": "0000",
-    	"EscolaCodigo": "0000",
-    	"Estatuto": "0000",
-    	"FazemTeste": "0000",
-    	"NIF": "0000",
-    	"EntidadeID":"1"
+    	"ProvinciaCodigo": "CC",
+    	"EscolaCodigo": "IPAGE",
+    	"Estatuto": "1",
+    	"FazemTeste": 0,
+    	"NIF": "0000"
     }
 parameters: []
 headers:

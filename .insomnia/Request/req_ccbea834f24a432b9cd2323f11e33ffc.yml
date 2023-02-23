@@ -1,7 +1,7 @@
 _id: req_ccbea834f24a432b9cd2323f11e33ffc
 type: Request
 parentId: fld_a4cef2a65d4a41bc96c13a9b58918906
-modified: 1676967493294
+modified: 1677137202646
 created: 1671178114449
 url: http://localhost:8080/api/inscricoes
 name: POST
@@ -15,17 +15,16 @@ body:
         "LastName": "Sapato",
         "Naturalidade": "Angola",
         "Nacionalidade": "Angola",
-        "Email": "admins@hotmail.com",
+        "Email": "admissssssssssssssssssssssns@hotmail.com",
         "Data": "12-11-2022",
     	  "DataNascimento": "12-11-2022",
         "NumeroContribuinte": "00555124",
         "NumeroAgente": "98999555",
         "Idade": "19",
-        "BI": "0955552",
+        "BI": "ssssssss",
         "LocalEmissao": "Huambo",
         "DataEmissao": "10-10-2022",
         "DataExpiracao": "10-10-2022",
-    	
         "Residencia": "",
         "Endereco": "",
         "Contacto": "",
@@ -40,19 +39,16 @@ body:
         "EstadoCivil": "CASADO",
         "Estado": "1",
         "AbilitacoesLiterarias": "LICENCIADO",
-    	
         "GrauParentesco": "MÃE",
     	  "NomePai": "Aderito",
     	  "PaiVive": "1",
     	  "NomeMae": "Janetes", 
-    	  "Sexo": "",
+    	  "Sexo": "MASCULUNO",
     	  "MaeVive": "1",
     	  "ImageDataURL": "",
-    	
     	  "EstadoCivil": "SOLTEIRO",
     	  "EstadoEstudantes": "INTERNO",
-    	  "ImageDataURL": "",
-    	
+    	  "ImageDataURL": "",	
         "NIF": "0000"
     }
 parameters: []
